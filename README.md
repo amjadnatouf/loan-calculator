@@ -4,7 +4,7 @@ A simple loan calculator that allows users to calculate their monthly loan payme
 
 ## Demo
 
-You can view a live demo of the loan calculator at [https://loan-calculator.example.com](https://loan-calculator.example.com).
+You can view a live demo of the loan calculator at [https://amjadnatouf.github.io/loan-calculator/](https://amjadnatouf.github.io/loan-calculator/).
 
 ## Installation
 
