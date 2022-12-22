@@ -10,7 +10,7 @@ You can view a live demo of the loan calculator at [https://loan-calculator.exam
 
 To install the loan calculator, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/loan-calculator.git`
+1. Clone the repository: `git clone https://github.com/amjadnatouf/loan-calculator`
 2. Install the dependencies: `npm install` or `yarn install`
 3. Start the development server: `npm start` or `yarn start`
 
@@ -35,4 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or feedback, you can reach me at [hello@example.com](mailto:hello@example.com).
+For questions or feedback, you can reach me at [na80@hotmail.com](mailto:na80@hotmail.com).
